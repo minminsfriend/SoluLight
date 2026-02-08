@@ -1,0 +1,2 @@
+﻿PortName COM9
+RealScale 2.0

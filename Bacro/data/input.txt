@@ -1,0 +1,39 @@
+// center dho cap : kvec(405,225)
+
+//행운권 장수 :: 400
+행운권 장수 :: 326
+
+rect map :: 2896 743 454 325
+rect form :: 274 397 758 542
+
+// 전체행동력 행음용량 슬롯번호
+//Power Pizza :: 585 50 4
+//LoopTarget :: 20
+
+//Power Pizza :: 620 50 4
+//LoopTarget :: 10
+
+// 런던미녀 해역토벌
+Power Pizza :: 190 50 4
+LoopTarget :: 70
+
+//파루 돼지
+생산 변수 :: bal3 A3 B4 doSell
+
+//콘 돼지
+생산 변수 :: bal2 A1 B2 doSell
+
+//럼주
+생산 변수 :: bal8 A3 B0 doSell
+
+//피자
+@생산 변수 :: bal3 A3 B0 doSell
+
+//와인비니거
+생산 변수 :: bal7 A5 B0 doSell
+
+//트위터
+생산 변수 :: bal7 A5 B5 doSell
+
+//놋쇠
+생산 변수 :: bal7 A4 B0 doSell
