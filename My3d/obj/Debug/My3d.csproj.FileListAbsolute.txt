@@ -1,0 +1,15 @@
+D:\Works\vs\SoluLight\My3d\bin\Debug\My3d.exe.config
+D:\Works\vs\SoluLight\My3d\bin\Debug\My3d.exe
+D:\Works\vs\SoluLight\My3d\bin\Debug\My3d.pdb
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d.csproj.AssemblyReference.cache
+D:\Works\vs\SoluLight\My3d\obj\Debug\MainWindow.g.cs
+D:\Works\vs\SoluLight\My3d\obj\Debug\App.g.cs
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d_MarkupCompile.cache
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d_MarkupCompile.lref
+D:\Works\vs\SoluLight\My3d\obj\Debug\MainWindow.baml
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d.g.resources
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d.Properties.Resources.resources
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d.csproj.GenerateResource.cache
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d.csproj.CoreCompileInputs.cache
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d.exe
+D:\Works\vs\SoluLight\My3d\obj\Debug\My3d.pdb
