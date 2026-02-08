@@ -1,0 +1,12 @@
+D:\Works\vs\SoluLight\WinSerial\obj\Debug\WinSerial.csproj.AssemblyReference.cache
+D:\Works\vs\SoluLight\WinSerial\obj\Debug\WinSerial.Properties.Resources.resources
+D:\Works\vs\SoluLight\WinSerial\obj\Debug\WinSerial.csproj.GenerateResource.cache
+D:\Works\vs\SoluLight\WinSerial\obj\Debug\WinSerial.csproj.CoreCompileInputs.cache
+D:\Works\vs\SoluLight\WinSerial\bin\Debug\WinSerial.exe.config
+D:\Works\vs\SoluLight\WinSerial\bin\Debug\WinSerial.exe
+D:\Works\vs\SoluLight\WinSerial\bin\Debug\WinSerial.pdb
+D:\Works\vs\SoluLight\WinSerial\bin\Debug\ShineLibsW.dll
+D:\Works\vs\SoluLight\WinSerial\bin\Debug\ShineLibsW.pdb
+D:\Works\vs\SoluLight\WinSerial\obj\Debug\WinSerial.csproj.Up2Date
+D:\Works\vs\SoluLight\WinSerial\obj\Debug\WinSerial.exe
+D:\Works\vs\SoluLight\WinSerial\obj\Debug\WinSerial.pdb
